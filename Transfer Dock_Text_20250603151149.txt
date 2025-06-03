@@ -1,0 +1,12 @@
+
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dhishu Treasures</title>
+</head>
+<body>
+  <h1>Welcome to Dhishu Treasures!</h1>
+  <p>This is our handmade jewellery store 💍</p>
+</body>
+</html>
