@@ -9,7 +9,6 @@
   <body>
   </body>
 </html>
-
 /admin/config.yml
 backend:
   name: git-gateway
