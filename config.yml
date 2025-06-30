@@ -1,3 +1,4 @@
+admin/config.yml
 backend:
   name: git-gateway
   branch: main
@@ -14,6 +15,3 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      
-      
-      
